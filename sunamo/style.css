@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(255, 240, 240);
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+
+.perfume{
+    width: 400px;
+    height: 600px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: aqua;
+}
+
+
+
+
+.container{
+    width: 800px;
+    height: 600px;
+    background-color: white;
+    border-radius: 20px;
+}
+.img1{
+    width: 400px;
+    height: 100%;
+    border-radius: 20px 0px 0px 20px;
+}
+.p1{
+    margin-top: -570px;
+    margin-left: 440px;
+    font-weight: 900;
+    color: rgb(124, 124, 124);
+}
+.p2{
+    margin-left: 440px;
+    font-size: 50px;
+    margin-top: 0px;
+    font-weight: 900;
+}
+.p3{
+    margin-left: 440px;
+    margin-top: -15px;
+    font-weight: 900;
+    color: rgb(124, 124, 124);
+    font-size: 20px;
+}
+.p4{
+    margin-left: 440px;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 900;
+    color: green;
+}
+.p5{
+    margin-left: 640px;
+    margin-top: -90px;
+    color: rgb(124, 124, 124);
+}
+.btn1{
+    margin-left: 440px;
+    margin-top: 35px;
+    width: 315px;
+    height: 50px;
+    border-radius: 12px;
+    border: none;
+    background-color: green;
+    font-size: large;
+    color: aliceblue;
+    cursor: pointer;
+}
